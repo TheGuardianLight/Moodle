@@ -2,7 +2,7 @@
 
 ## Compatibilité :
 
-|||
+| Nom et version | Etat |
 | :----- | ------: |
 | Ubuntu 23.04 | ✅ |
 | Debian 12 | ❌ |
