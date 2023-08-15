@@ -2,7 +2,9 @@
 
 ## Compatibilité :
 
-| Nom et version | Etat |
+La version de Moodle installé est la version 4.0.2
+
+| Nom et version de l'os | Etat |
 | :----- | ------: |
 | Ubuntu 23.04 | ✅ |
 | Debian 12 | ❌ |
